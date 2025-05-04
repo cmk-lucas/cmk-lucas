@@ -28,10 +28,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-pseudo&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cmk-lucas&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmk-lucas&theme=tokyonight" width="49%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo&layout=compact&theme=tokyonight" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmk-lucas&layout=compact&theme=tokyonight" width="50%">
 </p>
 
 ---
