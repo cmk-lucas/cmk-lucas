@@ -1,8 +1,8 @@
 <h1 align="center">🚀 Cherubin Manunga Kiaku</h1>
 
 <p align="center">
-💻 Développeur Web Fullstack • 🔐 Passionné de Cybersécurité<br/>
-🎓 Étudiant à Guardia School (Promo 2026) — Kinshasa, RDC<br/>
+💻 Développeur Web Fullstack • 🔐 Passionné de Cybersécurité
+🎓 Étudiant à Guardia School (Promo 2026) <br/>— Kinshasa, RDC
 ✨ <em>Créer avec passion. Apprendre sans limites. Sécuriser l’avenir.</em>
 </p>
 
