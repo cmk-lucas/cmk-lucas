@@ -1,13 +1,15 @@
 <h1 align="center">🚀 Cherubin Manunga Kiaku</h1>
 
 <p align="center">
-🎓 Dév Web Fullstack • 🛡️ Cybersecurity Addict • 🎯 Guardia School (2026)<br>
-📍 Kinshasa – RDC | 💡 Build. Learn. Secure.
+🎓 Développeur Web Fullstack & Passionné de Cybersécurité  
+🎯 Étudiant à Guardia School (promo 2026) • Kinshasa – RDC  
+💡 *Créer. Apprendre. Sécuriser.*
 </p>
 
 ---
 
-## ⚡ Stack & Tools
+## ⚡ Compétences & Outils
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -27,19 +29,18 @@
   <img src="https://img.shields.io/badge/Nmap-2187CD?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
 </p>
 
+---
+
+## 🛠️ Quelques projets qui me représentent
+
+- 🔐 **[Spamor](https://github.com/ton-pseudo/spamor-app)** – Un simulateur d’envoi d’emails en PyQt5 pour tester la vigilance et la sécurité.  
+- 🌐 **[Unispace](https://github.com/ton-pseudo/unispace-social)** – Un mini réseau social fullstack pensé pour connecter simplement.  
+- 🕵🏽‍♂️ **[Uniscanner](https://github.com/ton-pseudo/uniscanner)** – Scanner de ports en Python pour explorer les bases du pentest.  
+- 🛍️ **[Deepest Store](https://github.com/ton-pseudo/deepest-store)** – Une vitrine e-commerce au design affirmé.
 
 ---
 
-## 🛠️ Projets clés
-
-- **[Spamor](https://github.com/ton-pseudo/spamor-app)** – App PyQt5 pour simuler des e-mails *(cyber test)*  
-- **[Unispace](https://github.com/ton-pseudo/unispace-social)** – Mini réseau social complet (React/Mongo)  
-- **[Uniscanner](https://github.com/ton-pseudo/uniscanner)** – Scanner de ports Python  
-- **[Deepest Store](https://github.com/ton-pseudo/deepest-store)** – Frontend e-commerce stylé
-
----
-
-## 📊 GitHub Stats
+## 📊 Stats GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cmk-lucas&show_icons=true&theme=tokyonight" width="49%" />
@@ -50,12 +51,12 @@
 
 ---
 
-## 📫 Contact
+## 📬 Restons connectés
 
-📧 [cmklucas99@gmail.com](mailto:cmklucas99@gmail.com)  
-💬 WhatsApp : +243 97 511 8663  
-🔗 LinkedIn : *(à venir)*
+- 📧 **Mail** : [cmklucas99@gmail.com](mailto:cmklucas99@gmail.com)  
+- 💬 **WhatsApp** : +243 97 511 8663  
+- 🔗 **LinkedIn** : *(en cours de mise en ligne)*
 
 ---
 
-> *“Code. Apprends. Hack le game. Protège le monde.”*
+> *« Code. Apprends. Hack le game. Protège le monde. »*
