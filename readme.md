@@ -62,19 +62,24 @@
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmk-lucas&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmk-lucas&theme=tokyonight" width="49%" />
+  <!-- Stats globales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=cmk-lucas&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=false" width="49%" alt="GitHub Stats"/>
+
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cmk-lucas&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=10&hide_border=false" width="49%" alt="GitHub Streak"/>
+  
+  <!-- Langages -->
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmk-lucas&layout=compact&theme=tokyonight" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmk-lucas&langs_count=8&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" width="50%" alt="Top Langs"/>
 </p>
 
 ---
 
 ## 📬 Restons connectés
 
-- 📧 **Mail** : [cmklucas99@gmail.com](mailto:cmklucas99@gmail.com)  
-- 💬 **WhatsApp** : +243 97 511 8663  
-- 🔗 **LinkedIn** : *(en cours de mise en ligne)*
+- 📧 **Email** : [cmklucas99@gmail.com](mailto:cmklucas99@gmail.com)  
+- 💬 **WhatsApp** : [+243 97 511 8663](https://wa.me/243975118663)  
+- 🔗 **LinkedIn** : *(cherubin manunga)*
 
 ---
 
