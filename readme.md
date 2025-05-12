@@ -79,7 +79,7 @@
 
 - 📧 **Email** : [cmklucas99@gmail.com](mailto:cmklucas99@gmail.com)  
 - 💬 **WhatsApp** : [+243 97 511 8663](https://wa.me/243975118663)  
-- 🔗 **LinkedIn** : *(cherubin manunga)*
+- 🔗 **LinkedIn** : *(cherubin_manunga)*
 
 ---
 
