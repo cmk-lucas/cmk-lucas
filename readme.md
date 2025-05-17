@@ -63,7 +63,7 @@
 
 <p align="center">
   <!-- Stats globales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=cmk-lucas&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=false" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cmk-lucas&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=false" width="48%" alt="GitHub Stats"/>
 
   <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=cmk-lucas&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border_radius=10&hide_border=false" width="49%" alt="GitHub Streak"/>
